@@ -1,0 +1,6 @@
+Email_Id,FirstName,LastName,CourseId,Grade,Marks
+sam@mysjsu.edu,Sam,Carpenter,DATA200,A+,96.0
+student1@mysjsu.edu,student,one,DATA200,B,84.0
+student2@mysjsu.edu,student,two,DATA201,C,72.0
+studenttest@mysjsu.edu,student,test2,DATA200,A,91.0
+student12test@mysjsu.edu,student12,test,DATA200,A,92.0
